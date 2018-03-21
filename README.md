@@ -1,1 +1,1 @@
-# awesome_repo
+# ga_practice_repo
